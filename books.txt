@@ -1,0 +1,33 @@
+
+
+Title: Horse Of Reality
+ISBN: 978-0-321-54938-3
+Author: Ferne Everett
+Publisher: LA Grange Daily News
+Quantity: 90
+Wholesale Cost: $96.00
+Retail Cost: $112.00
+
+Title: Boy Of Stone
+ISBN: 967-1-123-77881-9
+Author: Aniela Driscoll
+Publisher: Atlanta Parent
+Quantity: 100
+Wholesale Cost: $53.60
+Retail Cost: $78.90
+
+Title: Aliens Of The Ocean
+ISBN: 978-0-321-54938-4
+Author: Alannah Barajas
+Publisher: Paragould Daily Press Inc
+Quantity: 100
+Wholesale Cost: $92.50
+Retail Cost: $150.32
+
+Title: c++ programming
+ISBN: 321-4-567-89023-1
+Author: JK. Rowling
+Publisher: Pendirian Sdn. Bhd
+Quantity: 100
+Wholesale Cost: $20.50
+Retail Cost: $26.72

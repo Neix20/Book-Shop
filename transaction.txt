@@ -1,0 +1,12 @@
+1001
+Date: 2/4/2020
+Number of Books Sold: 1
+            5     978-0-321-54938-3   Horse Of Reality                        $112.00        $560.00        
+Total: $593.60
+
+1002
+Date: 2/12/20
+Number of Books Sold: 1
+            5     978-0-321-54938-3   Horse Of Reality                        $112.00        $560.00        
+Total: $593.60
+
